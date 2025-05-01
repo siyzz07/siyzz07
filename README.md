@@ -50,5 +50,5 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=siyzz07d&show_icons=true&theme=radical" alt="Shibin Siyad's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siyzz07&show_icons=true&theme=radical" alt="Shibin Siyad's GitHub Stats" />
 </p>
