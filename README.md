@@ -10,7 +10,7 @@
 - 👯 **Looking to Collaborate:** On exciting and impactful projects.  
 - 🤝 **Seeking Help With:** Overcoming specific project challenges.  
 - 💬 **Ask Me About:** MERN Stack, SQL, or development best practices.  
-- 📫 **Reach Me At:** shibinsiyad.kdpm@gmail.com  
+- 📫 **Reach Me At:** shibinsiyad.k.kdpm@gmail.com  
 
 ---
 
