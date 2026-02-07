@@ -1,6 +1,11 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Shibin%20Siyad&fontSize=70&animation=fadeIn" width="100%"/>
-</div>
+# 👨‍💻 Shibin Siyad
+### Full-Stack Developer | MERN Specialist | Open Source Enthusiast
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Location-India-orange?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-Brototype-red?style=flat-square&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/siyzz07?label=Followers&style=flat-square&color=blue" />
+</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF" />
