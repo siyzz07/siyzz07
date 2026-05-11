@@ -60,7 +60,10 @@ A passionate **Full-Stack Developer** based in India, specializing in the **MERN
 
 ### 🐍 Activity Overview
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/siyzz07/siyzz07/github-contribution-grid-snake.svg" alt="Snake" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/siyzz07/siyzz07/github-contribution-grid-snake.svg" alt="Snake" /> -->
+
+  <img src="https://github.com/lijuuu/lijuuu/blob/output/github-snake-dark.svg" alt="Snake animation" />
+
 </p>
 
 ---
